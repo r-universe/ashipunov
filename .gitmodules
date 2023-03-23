@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "kldtools"]
+	path = kldtools
+	url = https://github.com/cran/kldtools
+	shallow = true
+	registered = true
+[submodule "shipunov"]
+	path = shipunov
+	url = https://github.com/cran/shipunov
+	shallow = true
+	registered = true
+[submodule "smirnov"]
+	path = smirnov
+	url = https://github.com/cran/smirnov
+	shallow = true
+	registered = true
+[submodule "tapkee"]
+	path = tapkee
+	url = https://github.com/cran/tapkee
+	shallow = true
+	registered = true
