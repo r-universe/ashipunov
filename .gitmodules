@@ -28,8 +28,3 @@
 	url = https://github.com/cran/tapkee
 	shallow = true
 	registered = true
-[submodule "ucminf"]
-	path = ucminf
-	url = https://github.com/cran/ucminf
-	shallow = true
-	registered = true
