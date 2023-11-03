@@ -5,6 +5,9 @@
 [submodule "kldtools"]
 	path = kldtools
 	url = https://github.com/cran/kldtools
+[submodule "plotrix"]
+	path = plotrix
+	url = https://github.com/cran/plotrix
 [submodule "shipunov"]
 	path = shipunov
 	url = https://github.com/cran/shipunov
